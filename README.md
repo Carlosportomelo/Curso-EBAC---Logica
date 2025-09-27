@@ -33,3 +33,14 @@ Criar uma calculadora capaz de realizar operações matemáticas básicas de for
 Abra o arquivo no Jupyter:
 ```bash
 jupyter notebook Primeiro_Projeto_(Calculadora).ipynb
+
+###*Via Shell Script*
+Dê permissão de execução (apenas na primeira vez):
+chmod +x calculadora.sh python_scrit.sh
+
+Execute o script desejado:
+./calculadora.sh
+# ou
+./python_scrit.sh
+
+
