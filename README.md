@@ -34,7 +34,10 @@ Abra o arquivo no Jupyter:
 ```bash
 jupyter notebook Primeiro_Projeto_(Calculadora).ipynb
 
+---
+  
 ###*Via Shell Script*
+```bash
 Dê permissão de execução (apenas na primeira vez):
 chmod +x calculadora.sh python_scrit.sh
 
